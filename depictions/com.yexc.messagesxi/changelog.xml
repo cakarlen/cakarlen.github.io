@@ -1,7 +1,9 @@
 <changelog>
-	<changes>
+    <changes>
         <version>1.0-1</version>
         <change>Add ability to choose not to automatically read group chats</change>
+    </changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
