@@ -56,11 +56,11 @@
 	<screenshots>
 		<screenshot>
 			<description>The option to unread a message when there ARE NO actual unread messages is displayed in the top right of the navigation bar</description>
-			<image>read.jpg</image>
+			<image>read.PNG</image>
 		</screenshot>		
 		<screenshot>
 			<description>The option to read a message when there ARE unread messages is displayed in the top right of the navigation bar</description>
-			<image>unread.jpg</image>
+			<image>unread.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
