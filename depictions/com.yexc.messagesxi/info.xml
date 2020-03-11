@@ -64,6 +64,20 @@
             </ul>
             ]]>
         </description>
+        
+        <description>
+            <![CDATA[
+            <strong>Future plans</strong>
+            <small>Not all plans will be listed</small>
+            <br/>
+            
+            <ul>
+                <li>iOS 11/12 support</li>
+                <li>Swipe to unread/read</li>
+                <li>+1 to Messages badge if unreading message</li>
+            </ul>
+            ]]>
+        </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
