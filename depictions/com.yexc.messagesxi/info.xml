@@ -20,10 +20,10 @@
             I wrote this to initially fix an annoyance of mine within the Messages app and is my first publicly published tweak! Since then, it has some features I would like to outline:
             <br/>
 
-            If you background or close out Messages when selected on a message, you will be pushed back to your list of messages instead of staying on the previously selected one (what I originally wrote this for).
+                1. If you background or close out Messages when selected on a message, you will be pushed back to your list of messages instead of staying on the previously selected one (what I originally wrote this for).
             <br/>
 
-            The ability to read/unread messages manually! If this option is enabled, you will see a "Read" or "Unread" depending on if you actually have unread messages.
+                2. The ability to read/unread messages manually! If this option is enabled, you will see a "Read" or "Unread" depending on if you actually have unread messages.
             ]]>
         </description>
         
@@ -31,7 +31,7 @@
             <![CDATA[
             Limitations
             <br/><br/>
-            Because of how Apple has implemented the backend of each message, unreading the chat will not takeaway a read receipt for the other party, if that is enabled. What MessagesXI will do is put the blue dot beside the message you decided to unread. This is the best way to mark a message and come back to it if needed. This also means you will not see a badge on Messages but can be implemented if there is enough support
+                1. Because of how Apple has implemented the backend of each message, unreading the chat will not takeaway a read receipt for the other party, if that is enabled. What MessagesXI will do is put the blue dot beside the message you decided to unread. This is the best way to mark a message and come back to it if needed. This also means you will not see a badge on Messages but can be implemented if there is enough support
             ]]>
         </description>
 
@@ -39,7 +39,7 @@
             <![CDATA[
             Cool things
             <br/><br/>
-            It would be annoying if you have to manually hit read once you send a message. I decided to read the message once a message is sent but never before that. This same concept applies to group messages except once you select on one, that message will be automatically read. I can add an option to not do this if there is enough support
+                1. It would be annoying if you have to manually hit read once you send a message. I decided to read the message once a message is sent but never before that. This same concept also applies to group messages!
             ]]>
         </description>
         
@@ -47,9 +47,9 @@
             <![CDATA[
             Compatibility
             <br/><br/>
-            I only tested this on my iPhone X, iOS 13.2.3 and iPhone 7+, iOS 13.3.
+                1. I only tested this on my iPhone X, iOS 13.2.3 and iPhone 7+, iOS 13.3.
             <br/>
-            Compiled for arm64 and arm64e support (A12 devices)! iOS 13+ support guaranteed
+                2. Compiled for arm64 and arm64e support (A12 devices)! iOS 13+ support guaranteed
             ]]>
         </description>
 	</descriptionlist>
