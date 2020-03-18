@@ -94,9 +94,6 @@
 	</screenshots>
 	<changelog>
         <change>Bug fix for swiping/long press to read</change>
-        <change>Support for iOS 11/12, Add ability to hide typing indicator, Add ability to delete all conversations, Add ability to swipe to read/unread</change>
-        <change>Add ability to choose not to automatically read group chats</change>
-		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
