@@ -1,10 +1,10 @@
 <package>
 	<id>com.yexc.messagesxi</id>
 	<name>MessagesXI</name>
-	<version>1.0-1</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -23,8 +23,10 @@
             <ul>
                 <li>If you background or close out Messages when selected on a message, you will be pushed back to your list of messages instead of staying on the previously selected one (what I originally wrote this for).
                 </li>
-                <li>The ability to read/unread messages manually! If this option is enabled, you will see a "Read" or "Unread" depending on if you actually have unread messages.
+                <li>The ability to read/unread messages manually! If this option is enabled, you will see a "Read" or "Unread" depending on if you actually have unread messages. You can also swipe to the right to read/unread on the chat
                 </li>
+                <li>Hide the typing indicator (3 dots) from the other person</li>
+                <li>Delete all conversations in list while editing</li>
             </ul>
             ]]>
         </description>
@@ -59,8 +61,10 @@
             <br/>
             
             <ul>
-                <li>I only tested this on my iPhone X, iOS 13.2.3 and iPhone 7+, iOS 13.3.</li>
-                <li>Compiled for arm64 and arm64e support (A12 devices)! iOS 13+ support guaranteed</li>
+                <li>I only tested this on my iPhone X, iOS 13.2.3 and iPhone 7+, iOS 13.3</li>
+                <li>arm64 and arm64e support (A12/A13 devices)</li>
+                <li>iOS 11/12/13 support</li>
+                <li><strong>If anything does not work for you, please email me!</strong></li>
             </ul>
             ]]>
         </description>
@@ -73,8 +77,6 @@
             <br/>
             
             <ul>
-                <li>iOS 11/12 support</li>
-                <li>Swipe to unread/read</li>
                 <li>+1 to Messages badge if unreading message</li>
             </ul>
             ]]>
@@ -91,6 +93,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
+        <change>Support for iOS 11/12, Add ability to hide typing indicator, Add ability to delete all conversations, Add ability to swipe to read/unread</change>
         <change>Add ability to choose not to automatically read group chats</change>
 		<change>Initial release</change>
 	</changelog>

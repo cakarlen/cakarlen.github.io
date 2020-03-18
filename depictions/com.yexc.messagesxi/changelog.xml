@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>1.1</version>
+        <change>Support for iOS 11/12</change>
+        <change>Add ability to hide typing indicator</change>
+        <change>Add ability to delete all conversations while editing</change>
+        <change>Add ability to swipe to read/unread (swipe right on chat)</change>
+        <change>Fixed bug where long pressing on chat and clicking read didn't work</change>
+        <change>Fixed bug where selecting "Read All" or "Read" while editing conversations didn't work</change>
+    </changes>
+    <changes>
         <version>1.0-1</version>
         <change>Add ability to choose not to automatically read group chats</change>
     </changes>
