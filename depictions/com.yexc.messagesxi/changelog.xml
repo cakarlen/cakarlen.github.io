@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.1-2</version>
+        <change>When unreading message, add +1 to Messages badge</change>
+    </changes>
+    <changes>
         <version>1.1-1</version>
         <change>Bug fix for swiping/long press to read</change>
     </changes>
