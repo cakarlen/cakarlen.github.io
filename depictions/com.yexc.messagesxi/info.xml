@@ -13,6 +13,14 @@
 	</dependencies>
 	<shortDescription>Enhance your Messages app!</shortDescription>
 	<descriptionlist>
+        <description>
+            <![CDATA[
+            <strong>Information</strong>
+            <br/><br/>
+            Please add my personal repo: cakarlen.github.io
+            ]]>
+        </description>
+        
 		<description>
             <![CDATA[
             <strong>What is MessagesXI?</strong>
@@ -38,7 +46,7 @@
             <br/>
             
             <ul>
-                <li>Because of how Apple has implemented the backend of each message, unreading the chat will not takeaway a read receipt for the other party, if that is enabled. What MessagesXI will do is put the blue dot beside the message you decided to unread. This is the best way to mark a message and come back to it if needed. This also means you will not see a badge on Messages but can be implemented if there is enough support
+                <li>Because of how Apple has implemented the backend of each message, unreading the chat will not takeaway a read receipt for the other party, if that is enabled. What MessagesXI will do is put the blue dot beside the message you decided to unread. This is the best way to mark a message and come back to it if needed.
                 </li>
             </ul>
             ]]>
@@ -78,7 +86,7 @@
             <br/>
             
             <ul>
-                <li></li>
+                <li>TBD</li>
             </ul>
             ]]>
         </description>
