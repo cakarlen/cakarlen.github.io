@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.2</version>
+        <change>Unreading a message will add a different unread dot to distinguish between manually unread messages and normal ones</change>
+    </changes>
+    <changes>
         <version>1.1-2</version>
         <change>When unreading message, add +1 to Messages badge</change>
     </changes>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.yexc.messagesxi</id>
 	<name>MessagesXI</name>
-	<version>1.1-2</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -102,7 +102,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-        <change>When unreading message, add +1 to Messages badge</change>
+        <change>Unreading a message will add a different unread dot to distinguish between manually unread messages and normal ones</change>
 	</changelog>
 	<links>
 		<link>
